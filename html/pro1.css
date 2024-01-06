@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+
+
+
+#overflow{
+    height:150px;
+    background-color: aliceblue;
+    width:200px;
+    /*overflow:auto;*/
+    overflow:scroll;
+    overflow:hidden;
+
+}
+
+
+#visibility{
+    height:200px;
+    width:500px;
+    background-color: chartreuse;
+    /*visibility:hidden;*/
+}
